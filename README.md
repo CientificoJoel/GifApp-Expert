@@ -1,3 +1,4 @@
 # GifExpertApp
 
-Este es mi proyecto de prueba de expert app con Fernando Herrera
+Este es mi repositorio del proyecto de GifExpertApp de React
+
